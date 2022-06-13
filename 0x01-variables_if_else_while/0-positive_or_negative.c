@@ -3,10 +3,10 @@
 #include <time.h>
 
 /*
- * main - Assigns a random number to varibale `n` each time 
- * the program is executed 
+ * main - Assigns a random number to varibale `n` each time
+ * the program is executed
  *
- * return (0) - Always zero unless program displays error
+ * Return (0): Always zero unless program displays error
  */
 
 int main(void)
