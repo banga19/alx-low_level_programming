@@ -3,10 +3,8 @@
 #include <time.h>
 
 /*
- * main - Entry point for the program
- *
- * 0-postive_or_negative: function tests whether a number is postive
- * or negative
+ * main - Assigns a random number to varibale `n` each time 
+ * the program is executed 
  *
  * return (0) - Always zero unless program displays error
  */
