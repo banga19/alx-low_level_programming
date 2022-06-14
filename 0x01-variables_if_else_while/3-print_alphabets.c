@@ -5,7 +5,7 @@
  * Description: program will print alphabets in lowercase then in uppercase,
  * followed by a new line.
  *
- * Return: Always 0 
+ * Return: Always 0
  */
 
 int main(void)
