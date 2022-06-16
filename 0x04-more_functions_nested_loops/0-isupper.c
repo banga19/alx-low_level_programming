@@ -12,12 +12,12 @@
 
 int main(void)
 {
-	char ch = 'A';
+	char ch = 'a';
 
 	if (isupper(ch))
-		printf("A: 1");
+		printf("A: 1 \n");
 	else 
-		printf("a: 0");
+		printf("a: 0 \n");
 	
 	return (0);
 }
